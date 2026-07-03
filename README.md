@@ -1,2 +1,6 @@
 # A step towards Data Science
 Basics of python for machine learning...
+
+* Datatypes
+* operators
+
