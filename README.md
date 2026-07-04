@@ -8,6 +8,7 @@ Basics of python for machine learning...
 * list
 * tuple
 * set
+* boolean
   
 ### operators
 
