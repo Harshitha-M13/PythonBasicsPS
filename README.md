@@ -4,6 +4,7 @@ Basics of python for machine learning...
 ### Datatypes
 * int
 * float
+* string
   
 ### operators
 
