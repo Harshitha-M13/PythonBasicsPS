@@ -5,6 +5,7 @@ Basics of python for machine learning...
 * int
 * float
 * string
+* list
   
 ### operators
 
