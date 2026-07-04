@@ -3,7 +3,7 @@ Basics of python for machine learning...
 
 ### Datatypes
 * int
-
+* float
   
 ### operators
 
