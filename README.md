@@ -7,6 +7,7 @@ Basics of python for machine learning...
 * string
 * list
 * tuple
+* set
   
 ### operators
 
