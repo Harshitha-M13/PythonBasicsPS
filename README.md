@@ -6,6 +6,7 @@ Basics of python for machine learning...
 * float
 * string
 * list
+* tuple
   
 ### operators
 
