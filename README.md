@@ -11,4 +11,10 @@ Basics of python for machine learning...
 * boolean
   
 ### operators
+* Arithematic operator
+* Relational / Comparision operator
+* Assignment operator
+* Logical operator
+* Membership operator
+* Identity operator
 
