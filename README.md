@@ -16,5 +16,6 @@ Basics of python for machine learning...
 * Assignment operator
 * Logical operator
 * Membership operator(in, not in)
-* Identity operator
+* Identity operator(is, is not)
+
 
