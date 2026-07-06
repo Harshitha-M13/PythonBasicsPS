@@ -18,4 +18,4 @@ Basics of python for machine learning...
 * Membership operator(in, not in)
 * Identity operator(is, is not)
 
-
+### Comprehension
