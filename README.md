@@ -23,3 +23,6 @@ Basics of python for machine learning...
 ### Import/Export
 
 ### Libraries
+* Pandas
+* Numpy
+* Matplotlib
