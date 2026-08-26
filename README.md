@@ -21,6 +21,7 @@ Basics of python for machine learning...
 ### Comprehension
 * List comprehension
 * Set comprehension
+* etc...
 
 ### Import/Export
 
