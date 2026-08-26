@@ -19,6 +19,7 @@ Basics of python for machine learning...
 * Identity operator(is, is not)
 
 ### Comprehension
+* List comprehension
 
 ### Import/Export
 
